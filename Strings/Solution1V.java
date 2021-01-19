@@ -26,8 +26,8 @@ public class Solution1V {
     }
 
 //        TEST CASES:
-//        String testInput1 = " MR John  SMITH           "; Output:" MR John  SMITH           "
-//        String testInput2 = "         ";
-//        String testInput3 = "jfhds";
-//        String testInput4 = null;
+//        String testInput1 = " MR John  SMITH           "; Output:" MRJohnSITH"
+//        String testInput2 = "         "; Output:" "
+//        String testInput3 = "jfhds"; Output:"jfhds"
+//        String testInput4 = null; Output:"null"
 }
