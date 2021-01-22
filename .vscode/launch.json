@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution11M",
+            "request": "launch",
+            "mainClass": "Solution11M",
+            "projectName": "GettingRestartedWithJava-2021_6cfb9ee5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution10M",
+            "request": "launch",
+            "mainClass": "Solution10M",
+            "projectName": "GettingRestartedWithJava-2021_6cfb9ee5"
+        },
+        {
+            "type": "java",
             "name": "Launch Solution3M",
             "request": "launch",
             "mainClass": "Solution3M",
