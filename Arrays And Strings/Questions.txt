@@ -1,5 +1,7 @@
 1. Remove all the duplicate characters from the given string.
+
 2. Identify if the given string is a palindrome. 
+
 3. Given two string, identify if they are anagrams of each other.
 
 4.(Source : CTCI) 
