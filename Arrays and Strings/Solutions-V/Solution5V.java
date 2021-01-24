@@ -6,7 +6,7 @@
  * Input: "Mr John Smith" Output: "Mr%20Dohn%20Smith"
  */
 
-public class Solution7V {
+public class Solution5V {
     private static String replaceSpaces(char[] input) {
         if(input == null) {
             return null;
