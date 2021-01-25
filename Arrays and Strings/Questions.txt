@@ -28,7 +28,4 @@
     Assume you have a method isSubstring which checks if one word is a substring of another. Given two strings, s i and s2, write code to check if s2 is a rotation of si using only one call to isSubstring (e.g.,"waterbottle"is a rota- tion of"erbottlewat").
 
 10. (Source : LeetCode - Easy)
-    Given an integer, write a function to return its roman numeral representation.
-
-11. (Source : LeetCode - Easy)
     Given two integers, an hour and a minute, write a function to calculate the angle between the two hands on a clock representing that time.
